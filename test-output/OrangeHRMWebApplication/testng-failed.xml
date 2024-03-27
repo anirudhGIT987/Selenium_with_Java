@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [OrangeHRMWebApplication]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="OrangeHrmWebApplication_Login_AddEmployee_Table_Tests(failed)">
+    <classes>
+      <class name="com.TestNG.Selenium.Ohrm_Emp_Registration_Mutliple_TestNG_PropFile">
+        <methods>
+          <include name="setUp"/>
+          <include name="employeeListTable"/>
+        </methods>
+      </class> <!-- com.TestNG.Selenium.Ohrm_Emp_Registration_Mutliple_TestNG_PropFile -->
+    </classes>
+  </test> <!-- OrangeHrmWebApplication_Login_AddEmployee_Table_Tests(failed) -->
+</suite> <!-- Failed suite [OrangeHRMWebApplication] -->
